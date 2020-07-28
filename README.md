@@ -1,4 +1,4 @@
-### Hi there 👋
+### Currently writing some stuff in my `README.md` file
 
 <!--
 **ravenbasix/ravenbasix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

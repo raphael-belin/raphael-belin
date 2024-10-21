@@ -1,5 +1,5 @@
 ### ⚡ TypeScript, React, UI/UX
 
-Entertainment Consumer · Engineering & UI/UX @Mediatonic × @EpicGames
+Entertainment Consumer · Web Engineering @EpicGames
 
 he/him  ·  🇫🇷 in 🇬🇧
